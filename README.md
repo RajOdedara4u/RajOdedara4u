@@ -25,25 +25,26 @@
     height="30"
     alt="javascript logo"
   />
-  <img width="12" />
+<br>
+<br>
+
+ 
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png"
+    height="25"
+    alt="tailwind logo"
+  />  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+    height="30"
+    alt="Bootstrap_logo logo"
+  />
+<br>
+   <img width="12" />
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="30"
     alt="react logo"
-  />
-  <img width="12" />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png"
-    height="25"
-    alt="tailwind logo"
-  />
-  <img width="12" />
-
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-    height="30"
-    alt="Bootstrap_logo logo"
   />
 </div>
 <br />
