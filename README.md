@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hey there 👋! I'm Raj, a passionate Frontend Web Developer with expertise in React.js, Redux, and Tailwind CSS. I love building clean, responsive, and user-friendly web interfaces.
+  Hii There am raj fullstack developer with knowlage about mern stack and next and nest js and many more techs..
 </h2>
 
 <br />
