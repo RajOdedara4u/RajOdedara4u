@@ -37,12 +37,9 @@
 
 
 💡 I'm also skilled in:
-- JavaScript (ES6+)
 - Creating RESTful APIs using **Express.js**
 - Working with **MongoDB**, **MySQL**, and **JSON Web Tokens**
 - Implementing secure authentication with **bcrypt.js**
-
-🔧 Currently exploring more about full-stack development with the MERN stack and exploring Testing Library's.
 
 🚀 Let’s connect and build something awesome together!
 
